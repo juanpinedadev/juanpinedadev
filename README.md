@@ -1,10 +1,4 @@
-<h1 align="center">¡Hola a todos! 👋 Soy Juan Pineda</h1>
-
-<h3 align="center">Actualmente, estoy trabajando en mejorar mis habilidades de programación y aprender nuevas tecnologías.</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=juanpinedadev&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="juanpinedadev" /> </p>
-
-<p align="center">🔭 Actualmente, estoy trabajando en <a href="https://github.com/juanpinedadev/CreditManager">Credit Manager</a></p>
+<h1 align="center">Juan Pineda</h1>
 
 <h3 align="center">Lenguajes y herramientas:</h3>
 
